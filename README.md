@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=60&pause=1000&color=3FB3F7&center=true&vCenter=true&width=800&height=70&lines=Welcome%2C+Zirui+here.)](https://git.io/typing-svg)
 
 <!--
 **Rhys-Wang-wannaLearnMath/Rhys-Wang-wannaLearnMath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=60&pause=1000&color=3FB3F7&center=true&vCenter=true&width=435&lines=Welcome%2C+Zirui+here.)](https://git.io/typing-svg)
+
