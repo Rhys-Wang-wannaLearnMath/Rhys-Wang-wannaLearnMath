@@ -7,7 +7,7 @@
 🚀 **Future PhD Student** at CUHK S3 Lab (Fall 2026)  
 
 ## 🔍 Research Interests
-**AI Infrastructure** • **AI4Compiler** • **LLM4Code** • **Multi-Agent Systems** • **WebAssembly**
+**AI Infrastructure** • **LLM4Code** • **Multi-Agent Systems** • **AI4Compiler** • **WebAssembly**
 
 ## 📍 Location
 🇭🇰 Hong Kong & 🇨🇳 Guangdong, China
