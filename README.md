@@ -3,8 +3,8 @@
 ## 👋 I'm Zirui Wang
 
 🎓 **Undergraduate** at Sun Yat-sen University | School of Software Engineering  
-🔬 **Research Assistant** at CUHK ARISE Lab (2025)  
-🚀 **Future PhD Student** at CUHK S3 Lab (Fall 2026)  
+🔬 **Research Assistant** at The Chinese University of Hong Kong | ARISE Lab (2025)  
+🚀 **Future PhD Student** at The Chinese University of Hong Kong | S3 Lab (Fall 2026)  
 
 ## 🔍 Research Interests
 **Software System** • **AI infrastructure** • **AI4SE**
