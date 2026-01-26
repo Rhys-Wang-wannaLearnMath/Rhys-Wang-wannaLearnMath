@@ -7,14 +7,14 @@
 🚀 **Future PhD Student** at CUHK S3 Lab (Fall 2026)  
 
 ## 🔍 Research Interests
-**AI Infrastructure** • **LLM4Code** • **Multi-Agent Systems** • **AI4Compiler** • **WebAssembly**
+**Software System** • **AI infrastructure** • **AI4SE**
 
 ## 📍 Location
 🇭🇰 Hong Kong & 🇨🇳 Guangdong, China
 
 ## 🔗 Links
 🌐 **Homepage:** [Zirui](https://rhys-wang-wannalearnmath.github.io/)  
-<!-- 📚 **Google Scholar** -->
+📚 **Google Scholar** [Zirui Wang](https://scholar.google.com/citations?hl=zh-CN&user=4115EYkAAAAJ)
 
 ## 📫 Contact
 📧 rhyswang0405@gmail.com  
