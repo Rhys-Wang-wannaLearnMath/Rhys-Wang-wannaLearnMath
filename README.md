@@ -14,7 +14,7 @@
 
 ## 🔗 Links
 🌐 **Homepage:** [Zirui](https://rhys-wang-wannalearnmath.github.io/)  
-📚 **Google Scholar** [Zirui Wang](https://scholar.google.com/citations?hl=zh-CN&user=4115EYkAAAAJ)
+📚 **Google Scholar** [Zirui Wang](https://scholar.google.com/citations?hl=zh-CN&user=4115EYkAAAAJ)  
 📕 **RedNote** [想学数学](https://xhslink.com/m/4qb2AZaUCBt)
 
 ## 📫 Contact
