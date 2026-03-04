@@ -4,7 +4,7 @@
 
 🎓 **Undergraduate** at Sun Yat-sen University | School of Software Engineering  
 🔬 **Research Assistant** at The Chinese University of Hong Kong | ARISE Lab (2025)  
-🚀 **Future PhD Student** at The Chinese University of Hong Kong | S3 Lab (Fall 2026)  
+🚀 **Future Ph.D. Student** at The Chinese University of Hong Kong | S3 Lab (Fall 2026)  
 
 ## 🔍 Research Interests
 **Software System** • **AI infrastructure** • **AI4SE**
