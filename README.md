@@ -2,12 +2,12 @@
 
 ## 👋 I'm Zirui Wang
 
-🎓 **Undergraduate** at Sun Yat-sen University | School of Software Engineering  
+🎓 **Undergraduate** at Sun Yat-sen University | School of Software Engineering (2022-2026)  
 🔬 **Research Assistant** at The Chinese University of Hong Kong | ARISE Lab (2025)  
 🚀 **Ph.D. Student** at The Chinese University of Hong Kong | S3 Lab (Fall 2026)  
 
 ## 🔍 Research Interests
-**Software System** • **AI infrastructure** • **AI4SE**
+**Intelligent Software Systems** • **AI infrastructure** • **AI4SE**
 
 ## 📍 Location
 🇭🇰 Hong Kong & 🇨🇳 Guangdong, China
